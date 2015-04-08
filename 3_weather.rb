@@ -1,5 +1,4 @@
 # Require Ruby libraries
-require "rubygems"
 require 'open-uri'
 require 'json'
 

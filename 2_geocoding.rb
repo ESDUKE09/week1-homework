@@ -1,5 +1,4 @@
 # Activate some helpful built-in Ruby libraries
-require "rubygems"
 require "open-uri"
 require "json"
 

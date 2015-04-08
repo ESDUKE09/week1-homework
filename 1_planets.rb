@@ -1,5 +1,9 @@
 planets = ['Mercury', 'Venus', 'Earth', 'Mars', 'Saturn', 'Jupiter', 'Uranus', 'Neptune']
-
+count=1
+planets.each do |planet|
+    puts "Planet #{count}: #{planet}"
+    count+=1
+end
 # 1. TO DO:
 #
 # Using the planets variable above,
